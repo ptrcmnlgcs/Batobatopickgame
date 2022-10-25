@@ -1,0 +1,13 @@
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\bin\Debug\Batobato Pick.exe.config
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\bin\Debug\Batobato Pick.exe
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\bin\Debug\Batobato Pick.pdb
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato Pick.csproj.AssemblyReference.cache
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato Pick.csproj.SuggestedBindingRedirects.cache
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato_Pick.Main.resources
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato_Pick.Properties.Resources.resources
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato Pick.csproj.GenerateResource.cache
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato Pick.csproj.CoreCompileInputs.cache
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato Pick.exe
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato Pick.pdb
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato_Pick.Fightstage.resources
+C:\Users\patre\source\repos\Batobato Pick\Batobato Pick\obj\Debug\Batobato_Pick.Winner.resources
